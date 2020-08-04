@@ -9,9 +9,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"][linkedin]
-[<img align="left" alt="My G-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg"][email]
+[<img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+[<img align="left" alt="My G-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg">][email]
 
 [linkedin]: https://www.linkedin.com/in/kyle-botha-ba635b1b1/
-
-[email]: <a href="kylebotha01@gmail.com"></a>
+[email]: mailto:kylebotha01@gmail.com
