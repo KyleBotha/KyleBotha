@@ -20,10 +20,12 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg">
-<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg">
 <img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg">
 <img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/cplusplus.svg">
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg">
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg">
+<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg">
+
 <img align="left" alt="My Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg">
 <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/php.svg">
 <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg">
@@ -32,4 +34,3 @@
 <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg">
 <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg">
 <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg">
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg">
